@@ -10,4 +10,4 @@ incoming and outgoing , like blocking the destination address for targeted subne
 compare the turbo.. interface command and find the difference 
 
 
-any changes 
+
