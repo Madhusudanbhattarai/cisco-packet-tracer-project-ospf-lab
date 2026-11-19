@@ -1,0 +1,10 @@
+acl - 15 marks - practical 25-35 marks
+https://www.youtube.com/watch?v=vMshgkItW5g ------
+
+sure exam question telnet and ssh 
+
+question
+acl 
+incoming and outgoing , like blocking the destination address for targeted subnet 
+
+compare the turbo.. interface command and find the difference 
